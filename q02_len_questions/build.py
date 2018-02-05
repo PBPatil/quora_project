@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import sys
 import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
-from q01_load_data_questions.build import q01_load_data_questions
+from greyatomlib.quora_project.q01_load_data_questions.build import q01_load_data_questions
 plt.switch_backend('agg')
 
 path = 'data/train.csv'
