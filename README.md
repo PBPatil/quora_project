@@ -22,3 +22,8 @@ Also further data fields are mentioned as following -
     is_duplicate - the target variable, set to 1 if question1 and question2 have essentially the same meaning, and 0 otherwise.
 
 
+## Pre-requisites
+- Working knowledge of Pandas, Numpy
+- Basic knowledge to deal with unstructed texual data.
+- Preprocessing techniques to clean texual data.
+- Working knowlege of Natural Language Processing algorithms.
